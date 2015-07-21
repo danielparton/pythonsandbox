@@ -1,0 +1,12 @@
+2013-10-30 15:43:54,260 - myapp - WARNING - Checkout this warning.
+2013-10-30 15:43:54,260 - myapp - ERROR - An error goes here.
+2013-10-30 15:43:54,260 - myapp - CRITICAL - Something critical happened.
+2014-10-20 17:11:29,129 - myapp - WARNING - Checkout this warning.
+2014-10-20 17:11:29,129 - myapp - ERROR - An error goes here.
+2014-10-20 17:11:29,129 - myapp - CRITICAL - Something critical happened.
+2014-10-27 11:54:05,800 - myapp - WARNING - Checkout this warning.
+2014-10-27 11:54:05,800 - myapp - ERROR - An error goes here.
+2014-10-27 11:54:05,800 - myapp - CRITICAL - Something critical happened.
+2014-10-27 11:54:34,301 - myapp - WARNING - Checkout this warning.
+2014-10-27 11:54:34,301 - myapp - ERROR - An error goes here.
+2014-10-27 11:54:34,301 - myapp - CRITICAL - Something critical happened.
