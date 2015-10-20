@@ -1,5 +1,2 @@
-# Manifest
+# Python sandbox
 
-* nose\_sandbox - nosetests
-* argparse
-* logging
